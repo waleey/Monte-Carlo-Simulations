@@ -1,4 +1,0 @@
-/home/waly/RaytracingSim/build/CMakeFiles/rebuild_cache.dir
-/home/waly/RaytracingSim/build/CMakeFiles/Raytracing.dir
-/home/waly/RaytracingSim/build/CMakeFiles/edit_cache.dir
-/home/waly/RaytracingSim/build/CMakeFiles/sim.dir
